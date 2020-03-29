@@ -13,19 +13,19 @@ I then ran a linear regression on each relationship, and separated them into Nor
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
-![](WeatherPy/Images/nmt.PNG)
+![](WeatherPy/Images/nmt.png)
 
 * Southern Hemisphere - Temperature (F) vs. Latitude
-![](WeatherPy/Images/smt.PNG)
+![](WeatherPy/Images/smt.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
-![](WeatherPy/Images/nh.PNG)
+![](WeatherPy/Images/nh.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
-![](WeatherPy/Images/sh.PNG)
+![](WeatherPy/Images/sh.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
-![](WeatherPy/Images/nc.PNG)
+![](WeatherPy/Images/nc.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
-![](WeatherPy/Images/sc.PNG)
+![](WeatherPy/Images/sc.png)
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
-![](WeatherPy/Images/nws.PNG)
+![](WeatherPy/Images/nws.png)
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
-![](WeatherPy/Images/sws.PNG)
+![](WeatherPy/Images/sws.png)
