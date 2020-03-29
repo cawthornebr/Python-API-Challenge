@@ -12,7 +12,9 @@ I first build a series of scatter plots to showcase the following relationships:
 I then ran a linear regression on each relationship, and separated them into Northern Hemisphere and Southern Hemisphere:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+
 ![](Images/nmt.PNG)
+
 * Southern Hemisphere - Temperature (F) vs. Latitude
 ![](Images/smt.PNG)
 * Northern Hemisphere - Humidity (%) vs. Latitude
